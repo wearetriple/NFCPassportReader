@@ -1,3 +1,6 @@
+v1.2.0
+    Resolved access level of DG12
+
 v1.1.9
    Retrieves names from DG11 if present otherwise fall back to DG1 - thanks @TerjeLon
    Fixed bug with Chip Authentication - thanks @pauphi and @jennytellne-cygni 
